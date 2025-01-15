@@ -46,11 +46,11 @@ git clone https://github.com/<your-username>/kotlin-playground.git
 
 We welcome contributions from everyone! Here’s how you can help:
 
-1.Fork the repository.
+1. Fork the repository.
 
-2.Add your snippet or improve existing ones.
+2. Add your snippet or improve existing ones.
 
-3.Submit a pull request with a clear description of your changes.
+3. Submit a pull request with a clear description of your changes.
 
 ---
 
