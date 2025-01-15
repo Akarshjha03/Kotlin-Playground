@@ -16,15 +16,15 @@ Open for contributions and collaborative learning 🙏
 
 ## How to Use 🔧
 
-1.Clone the repository:
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/<your-username>/kotlin-playground.git
 ```
 
-2.Open the files in your favorite Kotlin IDE (e.g., IntelliJ IDEA) or use an online Kotlin Playground.
+2. Open the files in your favorite Kotlin IDE (e.g., IntelliJ IDEA) or use an online Kotlin Playground.
 
-3.Explore, run, and modify the snippets to suit your needs. 🚀
+3. Explore, run, and modify the snippets to suit your needs. 🚀
 
 ---
 
