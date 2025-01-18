@@ -8,7 +8,7 @@ data class CoffeeDetails(
 
 fun main() {
     // Creating a CoffeeDetails object for AKARSH
-    val coffeeforAJ = CoffeeDetails(sugarCount = 2, name = "AKARSH", size = "XXL", creamAmount = 30)
+    val coffeeforAJ = CoffeeDetails(sugarCount = 2, name = "AKARSH", size = "XXL", creamAmount = 23)
 
     // Making coffee using the CoffeeDetails object
     makecoffee(coffeeforAJ)
