@@ -1,4 +1,4 @@
-# Kotlin Playground 📱
+#  👨‍💻 Kotlin Playground 📱
 
 Welcome to the Kotlin Playground! This repository is a collection of functional Kotlin code snippets and mini-projects, perfect for experimenting and learning Kotlin programming. 😎
 
